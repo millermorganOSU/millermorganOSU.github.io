@@ -1,4 +1,4 @@
 # millermorganOSU.github.io
 bingus bongus
 wow what a wonderful wepbage
-[Morgan's Cultural Award Show](./cultural_recs.md)
+[Morgan's Cultural Award Show](./cultural_rec.md)
